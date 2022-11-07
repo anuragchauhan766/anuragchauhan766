@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @anuragchauhan766
-- 👀 I’m interested in cyber security.
-- 🌱 I’m currently learning C language.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Anurag singh chauhan
+- 👀 I’m interested in Web Development,competetive programming
+- 🌱 I’m currently learning DSA 
+- 💞️ I’m looking to collaborate on Web project
+- 📫 mail me on anuragchauhan766@gmail.com
 
 <!---
 anuragchauhan766/anuragchauhan766 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

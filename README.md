@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Anurag Singh Chauhan</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragchauhan766&label=Profile%20views&color=0e75b6&style=flat" alt="anuragchauhan766" /> </p>
+
+<h1 align="left">Hacktoberfest 2K22:</h1>
 [![@anuragchauhan766's Holopin board](https://holopin.me/anuragchauhan766)](https://holopin.io/@anuragchauhan766)
+
+
 - 🔭 I’m currently working on **Data Structure and Web Development**
 
 - 🌱 I’m currently learning **Competetive programming**

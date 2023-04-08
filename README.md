@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Data Structure and Web Development**
 
-- 🌱 I’m currently learning **Competetive programming**
+- 🌱 I’m currently learning **Competetive programming and Full stack Web Development**
 
 - 👯 I’m looking to collaborate on **Web Development**
 

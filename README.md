@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anurag Singh Chauhan</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragchauhan766&label=Profile%20views&color=0e75b6&style=flat" alt="anuragchauhan766" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anuragchauhan766" alt="anuragchauhan766" /></a> </p>
-
+[![@anuragchauhan766's Holopin board](https://holopin.me/anuragchauhan766)](https://holopin.io/@anuragchauhan766)
 - 🔭 I’m currently working on **Data Structure and Web Development**
 
 - 🌱 I’m currently learning **Competetive programming**

@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anurag Singh Chauhan</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragchauhan766&label=Profile%20views&color=0e75b6&style=flat" alt="anuragchauhan766" /> </p>
-
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/anuragchauhan766/anuragchauhan766/3c25074f7664c28e3214856d1661f2403fbd74c6/Code%20typing-pana.svg">
 
 - 🔭 I’m currently working on **Data Structure and Web Development**
 
